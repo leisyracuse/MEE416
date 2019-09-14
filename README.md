@@ -12,7 +12,7 @@ k = 1.77
 #### 3.2 Buckling
 - load: the force added by loading cell
 - machine extention: transverse deflection
-- crosshead: the distance that load cell moved during the test
+- crosshead: the distance that load cell moved during the test (axial displacement)
 ### 4. length of test sample (Buckling)
 length of all the test sample (steel, aluminum, carbon fiber) are 1 ft
 ### 5. Import raw data to Matlab
