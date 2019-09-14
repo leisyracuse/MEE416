@@ -15,7 +15,7 @@ k = 1.77
 - crosshead: the distance that load cell moved during the test
 ### 4. length of test sample (Buckling)
 length of all the test sample (steel, aluminum, carbon fiber) are 1 ft
-### Import raw data to Matlab
+### 5. Import raw data to Matlab
 There are some ways to import test data into Matlab. You may have a very specific issue, so I can not answer everyone's question here.
 The simpliest way is copy the data in txt file to excel. Then on the "Home" tab, in the "Variable" section, select "Import Data" in Matlab.
 https://www.mathworks.com/help/matlab/data-import-and-export.html
