@@ -4,7 +4,7 @@
 Input voltage is 8V 
 ### 2. Coefficient of strain gauge
 k = 1.77
-### 3. structure of raw data
+### 3. Structure of raw data
 #### 3.1 Bending
 - load: the force added by loading cell
 - machine extention: the distance that load cell moved during the test
@@ -13,7 +13,7 @@ k = 1.77
 - load: the force added by loading cell
 - machine extention: transverse deflection
 - crosshead: the distance that load cell moved during the test (axial displacement)
-### 4. length of test sample (Buckling)
+### 4. Length of test sample (Buckling)
 length of all the test sample (steel, aluminum, carbon fiber) are 1 ft
 ### 5. Import raw data to Matlab
 There are some ways to import test data into Matlab. You may have a very specific issue, so I can not answer everyone's question here.
