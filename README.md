@@ -19,3 +19,5 @@ length of all the test sample (steel, aluminum, carbon fiber) are 1 ft
 There are some ways to import test data into Matlab. You may have a very specific issue, so I can not answer everyone's question here.
 The simpliest way is copy the data in txt file to excel. Then on the "**Home**" tab, in the "**Variable**" section, select "**Import Data**" in Matlab.  
 For more information https://www.mathworks.com/help/matlab/data-import-and-export.html
+### 6 Critical load calculation
+The equation given in lecture slide and student lab manual is for fixed-fixed boundary condition. Our test is pin-pin condition. You can search online to find the correct equation.
