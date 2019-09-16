@@ -20,4 +20,4 @@ There are some ways to import test data into Matlab. You may have a very specifi
 The simpliest way is copy the data in txt file to excel. Then on the "**Home**" tab, in the "**Variable**" section, select "**Import Data**" in Matlab.  
 For more information https://www.mathworks.com/help/matlab/data-import-and-export.html
 ### 6. Critical load calculation
-The equation given in lecture slide and student lab manual is for fixed-fixed boundary condition. Our test is pin-pin condition. You can search online to find the correct equation.
+The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. You can search online to find the correct equation.
