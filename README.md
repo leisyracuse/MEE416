@@ -23,7 +23,7 @@ For more information https://www.mathworks.com/help/matlab/data-import-and-expor
 The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. You can search online to find the correct equation.
 ### 7. Plot of theoretical relationship between strain and stress for bending test
 In order to plot the theoretical relationship between strain and stress for bending test, a theoretical Young's Modulus (E) for steel (E=200Gpa) can be used. 
-### 8. The following table shows the theoretical coefficients for buckling test.
+### 8. Theoretical coefficients for buckling test.
 |   |Aluminum|Steel|Carbon Fiber|
 |---|---|---|---|
 |Young's Modulus (E) [Gpa]|77|200|70|
