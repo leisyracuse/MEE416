@@ -21,7 +21,7 @@ The simpliest way is copy the data in txt file to excel. Then on the "**Home**" 
 For more information https://www.mathworks.com/help/matlab/data-import-and-export.html
 ### 6. Critical load calculation
 The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. The equation shows below:  
-$$P_{cr}$$
+![](https://latex.codecogs.com/gif.latex?P_%7Bcr%7D%20%3D%20%5Cfrac%7B%5Cpi%5E2EI%7D%7BL%5E2%7D)
 
 ### 7. Plot of theoretical relationship between strain and stress for bending test
 In order to plot the theoretical relationship between strain and stress for bending test, a theoretical Young's Modulus (E) for steel (E=200Gpa) can be used. 
