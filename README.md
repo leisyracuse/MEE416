@@ -20,7 +20,9 @@ There are some ways to import test data into Matlab. You may have a very specifi
 The simpliest way is copy the data in txt file to excel. Then on the "**Home**" tab, in the "**Variable**" section, select "**Import Data**" in Matlab.  
 For more information https://www.mathworks.com/help/matlab/data-import-and-export.html
 ### 6. Critical load calculation
-The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. You can search online to find the correct equation.
+The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. The equation shows below:  
+$$P_{cr} = \pi^2EI
+
 ### 7. Plot of theoretical relationship between strain and stress for bending test
 In order to plot the theoretical relationship between strain and stress for bending test, a theoretical Young's Modulus (E) for steel (E=200Gpa) can be used. 
 ### 8. Theoretical coefficients for buckling test.
