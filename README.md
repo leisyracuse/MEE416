@@ -20,7 +20,7 @@ There are some ways to import test data into Matlab. You may have a very specifi
 The simpliest way is copy the data in txt file to excel. Then on the "**Home**" tab, in the "**Variable**" section, select "**Import Data**" in Matlab.  
 For more information https://www.mathworks.com/help/matlab/data-import-and-export.html
 ### 6. Critical load calculation
-The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. The equation shows below:  
+The equation given in lecture slide and student lab manual is for **fixed-fixed** boundary condition. Our test is **pinned-pinned** condition. The equation of **pinned-pinned** shows below:  
 ![](https://latex.codecogs.com/gif.latex?P_%7Bcr%7D%20%3D%20%5Cfrac%7B%5Cpi%5E2EI%7D%7BL%5E2%7D)
 
 ### 7. Plot of theoretical relationship between strain and stress for bending test
