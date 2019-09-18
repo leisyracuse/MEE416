@@ -8,7 +8,7 @@ k = 1.77
 #### 3.1 Bending
 - load: the force added by loading cell
 - machine extention: the distance that load cell moved during the test
-- machine extention from preload: the istance that load cell moved after pre-load
+- machine extention from preload: the distance that load cell moved after pre-load
 #### 3.2 Buckling
 - load: the force added by loading cell
 - machine extention: transverse deflection
