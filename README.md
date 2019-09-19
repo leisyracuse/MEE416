@@ -30,6 +30,12 @@ In order to plot the theoretical relationship between strain and stress for bend
 |---|---|---|---|
 |Young's Modulus (E) [Gpa]|77|200|70|
 |Yield stress [psi]|35000|54000|75000|
-### 9. Uncertainty
+### 9. Uncertainty and Resolution
 #### LS5 Technical specification
 ![LS5](https://github.com/leisyracuse/MEE416/blob/master/Technical%20Specification.png)
+#### Deflectometer
+![Deflectometer](https://github.com/leisyracuse/MEE416/blob/master/Deflectometer.png)
+#### Calipers
+Ordinary 6-in/150-mm digital calipers are made of stainless steel, have a rated accuracy of 0.001 in(0.02mm) and a resolution of 0.0005 in (0.01 mm)
+#### The time component of the testing machine
+It is the resolution of the computer clock. Less than 100ns.
