@@ -32,4 +32,4 @@ In order to plot the theoretical relationship between strain and stress for bend
 |Yield stress [psi]|35000|54000|75000|
 ### 9. Uncertainty
 #### LS5 Technical specification
-![](C:\Users\Allen\Downloads\Technical Specification.png)
+![](C:/Users/Allen/Downloads/Technical Specification.png)
