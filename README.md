@@ -31,4 +31,5 @@ In order to plot the theoretical relationship between strain and stress for bend
 |Young's Modulus (E) [Gpa]|77|200|70|
 |Yield stress [psi]|35000|54000|75000|
 ### 9. Uncertainty
-![](https://blackboard.syracuse.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_5055164_1&course_id=_388813_1&mode=reset)
+#### LS5 Technical specification
+![](C:\Users\Allen\Downloads\Technical Specification.png)
