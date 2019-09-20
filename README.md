@@ -39,3 +39,5 @@ In order to plot the theoretical relationship between strain and stress for bend
 Ordinary 6-in/150-mm digital calipers are made of stainless steel, have a rated accuracy of 0.001 in(0.02mm) and a resolution of 0.0005 in (0.01 mm)
 #### The time component of the testing machine
 It is the resolution of the computer clock. Less than 100ns.
+#### Strain gage
+
