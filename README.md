@@ -40,4 +40,5 @@ Ordinary 6-in/150-mm digital calipers are made of stainless steel, have a rated 
 #### The time component of the testing machine
 It is the resolution of the computer clock. Less than 100ns.
 #### Strain gage
-
+![strain gage](https://github.com/leisyracuse/MEE416/blob/master/sg.jpeg)
+#### 
