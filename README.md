@@ -1,7 +1,7 @@
 # MEE416 -- Information you may need
 ## Table of Contents
-1. [Lab1 Solid Mechanics](#lab1)
-2. [Lab2 Heat Transfer](#lab2)
+1. [Lab1 Solid Mechanics](## Lab1 Solid Mechanics)
+2. [Lab2 Heat Transfer](## Lab2 Heat Transfer)
 
 ## Lab1 Solid Mechanics
 ### 1. Power supply to wheat stone bridge
