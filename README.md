@@ -1,5 +1,6 @@
 # MEE416 -- Information you may need
-[[_TOC_]]
+## Table of Contents
+1. [Lab1](#lab1)
 
 ## Lab1 Solid Mechanics
 ### 1. Power supply to wheat stone bridge
