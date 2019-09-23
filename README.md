@@ -1,5 +1,5 @@
 # MEE416 -- Information you may need
--[TOC]
+[[_TOC_]]
 
 ## Lab1 Solid Mechanics
 ### 1. Power supply to wheat stone bridge
