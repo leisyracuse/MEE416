@@ -49,3 +49,5 @@ It is the resolution of the computer clock. Less than 100ns.
 ![bridge completion module](https://github.com/leisyracuse/MEE416/blob/master/Bridge%20Completion%20Module.jpeg)
 
 ## Lab2 Heat Transfer
+### clarification and correction
+1. Student manual Page11 Appendix1, Thermal conductivity of Fin surface is 205 W/(m*K)
