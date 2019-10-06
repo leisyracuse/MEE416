@@ -51,3 +51,6 @@ It is the resolution of the computer clock. Less than 100ns.
 ## Lab2 Heat Transfer
 ### 1. clarification and correction
 1. Student manual Page11 Appendix1, Thermal conductivity of Fin surface is 205 W/(m*K)
+### 2. Dimensions of fins
+![fin1]{https://github.com/leisyracuse/MEE416/blob/master/Fins.PNG}
+![fin2]{https://github.com/leisyracuse/MEE416/blob/master/Fins2.PNG}
