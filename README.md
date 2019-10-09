@@ -57,7 +57,7 @@ It is the resolution of the computer clock. Less than 100ns.
 ### 3. Perimeter and Cross-section Area
 * Perimeter and area in Page 11 Appendix 1
   * "Perimeter" is the perimeter of __section B-B__
-  * "Cross area" is the __surface area__ of a single fin
+  * "Cross area" is the __surface area__ of a single fin exposured to ambient air
   * "Total area" is the surface area of single fin __times 9__ (we have 9 fins on the heat sink)
 * Perimeter and cross-section area in Eq 3-65
   * "Perimeter" is the perimeter of __section A-A__
