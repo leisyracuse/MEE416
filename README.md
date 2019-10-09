@@ -49,8 +49,17 @@ It is the resolution of the computer clock. Less than 100ns.
 ![bridge completion module](https://github.com/leisyracuse/MEE416/blob/master/Bridge%20Completion%20Module.jpeg)
 
 ## Lab2 Heat Transfer
-### 1. clarification and correction
+### 1. Clarification and Correction
 1. Student manual Page11 Appendix1, Thermal conductivity of Fin surface is 205 W/(m*K)
 ### 2. Dimensions of fins
 ![fin1](https://github.com/leisyracuse/MEE416/blob/master/Fins.PNG)
 ![fin2](https://github.com/leisyracuse/MEE416/blob/master/Fins2.PNG)
+### 3. Perimeter and Cross-section Area
+* Perimeter and area in Page 11 Appendix 1
+  * "Perimeter" is the perimeter of __section B-B__
+  * "Cross area" is the __surface area__ of a single fin
+  * "Total area" is the surface area of single fin __times 9__ (we have 9 fins on the heat sink)
+* Perimeter and cross-section area in Eq 3-65
+  * "Perimeter" is the perimeter of __section A-A__
+  * "Cross-section area, Ac" is the cross-section area of __section A-A__
+![singlefin]()
