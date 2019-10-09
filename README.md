@@ -63,4 +63,5 @@ It is the resolution of the computer clock. Less than 100ns.
   * "Perimeter" is the perimeter of __section A-A__
   * "Cross-section area, Ac" is the cross-section area of __section A-A__
  
- A Link to three view drawing of a ![single fin](https://github.com/leisyracuse/MEE416/blob/master/singleFin.png)
+Three view drawing of a single fin:
+![single fin](https://github.com/leisyracuse/MEE416/blob/master/singleFin.png)
