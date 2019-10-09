@@ -62,4 +62,5 @@ It is the resolution of the computer clock. Less than 100ns.
 * Perimeter and cross-section area in Eq 3-65
   * "Perimeter" is the perimeter of __section A-A__
   * "Cross-section area, Ac" is the cross-section area of __section A-A__
+  
 ![singlefin](https://github.com/leisyracuse/MEE416/blob/master/single%20fin.PDF)
