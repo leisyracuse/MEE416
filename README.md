@@ -3,6 +3,7 @@
 1. [Lab1 Solid Mechanics](#lab1-solid-mechanics)
 2. [Lab2 Heat Transfer](#lab2-heat-transfer)
 3. [Lab3 Linear Control](#lab3-linear-control)
+4. [lab4 HVCA](#lab4-hvac)
 
 ## Lab1 Solid Mechanics
 ### 1. Power supply to wheat stone bridge
@@ -68,3 +69,4 @@ Three view drawing of a single fin:
 ![single fin](https://github.com/leisyracuse/MEE416/blob/master/singleFin.png)
 
 ## Lab3 Linear Control
+## Lab4 HVAC
