@@ -69,4 +69,6 @@ Three view drawing of a single fin:
 ![single fin](https://github.com/leisyracuse/MEE416/blob/master/singleFin.png)
 
 ## Lab3 Linear Control
+There is no avaiable information about instrument specification for this lab.
+
 ## Lab4 HVAC
