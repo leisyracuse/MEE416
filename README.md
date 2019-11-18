@@ -69,6 +69,9 @@ Three view drawing of a single fin:
 ![single fin](https://github.com/leisyracuse/MEE416/blob/master/singleFin.png)
 
 ## Lab3 Linear Control
+### 1. Uncertainty and Resolution
 There is no avaiable information about instrument specification for this lab.
 
 ## Lab4 HVAC
+### 1. Cross dimension of air duct
+155mm * 155mm
