@@ -76,3 +76,15 @@ There is no avaiable information about instrument specification for this lab.
 ### 1. Cross dimension of air duct
 155mm * 155mm
 ### 2. Calculation of removed sensible heat, latent heat and moisture
+**Total heat removed:** q_t = m * (i1 - i2)
+**Sensible heat removed:** q_s = m * (i3 - i2)
+**Latent heat removed:** q_l = m * (i1 - i3)
+**Moisture removed:** m_w = m * (W1 - W2)
+*q_t: total heat removed*
+*q_s: sensible heat removed*
+*q_l: latent heat removed*
+*m_a: mass flow rate of air*
+*i: enthalpy*
+*m_w: moisture removed*
+*W: humodity ratio of air*
+![psychrometric chart](https://github.com/leisyracuse/MEE416/blob/master/psychart.PNG)
