@@ -90,7 +90,7 @@ There is no avaiable information about instrument specification for this lab.
 
 *q_l: latent heat removed*
 
-*m_a: mass flow rate of air*
+*m: mass flow rate of air*
 
 *i: enthalpy*
 
