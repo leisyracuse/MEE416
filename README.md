@@ -75,3 +75,4 @@ There is no avaiable information about instrument specification for this lab.
 ## Lab4 HVAC
 ### 1. Cross dimension of air duct
 155mm * 155mm
+### 2. Calculation of removed sensible heat, latent heat and moisture
