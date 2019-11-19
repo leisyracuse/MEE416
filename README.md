@@ -98,6 +98,6 @@ After you plot point 1 and 2 for two different states, just project these two po
 
 *m_w: moisture removed*
 
-*W: humodity ratio of air*
+*W: humidity ratio of air*
 
 ![psychrometric chart](https://github.com/leisyracuse/MEE416/blob/master/psychart.PNG)
