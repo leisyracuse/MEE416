@@ -76,6 +76,8 @@ There is no avaiable information about instrument specification for this lab.
 ### 1. Cross dimension of air duct
 155mm * 155mm
 ### 2. Calculation of removed sensible heat, latent heat and moisture
+After you plot point 1 and 2 for two different states, just project these two points perpendicular to the bottom axis (temperature) and the right axis (humidity ratio), then you'll find an intersection point 3. Project point 1, 2 and 3 to the enthalpy axis, you can get the enthalpy for these three points. The enthalpy difference between point 1 and 2 is the total enthalpy difference, the enthalpy difference between point 3 and 2 is the sensible enthalpy difference and the enthalpy difference between point 1 and 3 is the latent enthalpy difference. By multipling the enthalpy difference and the air mass flow rate, you can get either removed total, sensible or latent heat. From the humidity ratio difference between point 1 and 2, you can get the removed moisture (by multipling with the air mass flow rate). The equations are: 
+
 **Total heat removed:** q_t = m * (i1 - i2)
 
 **Sensible heat removed:** q_s = m * (i3 - i2)
