@@ -3,7 +3,7 @@
 1. [Lab1 Solid Mechanics](#lab1-solid-mechanics)
 2. [Lab2 Heat Transfer](#lab2-heat-transfer)
 3. [Lab3 Linear Control](#lab3-linear-control)
-4. [Lab4 HVCA](#lab4-hvac)
+4. [Lab4 HVAC](#lab4-hvac)
 
 ## Lab1 Solid Mechanics
 ### 1. Power supply to wheat stone bridge
