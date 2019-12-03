@@ -100,6 +100,8 @@ After you plot point 1 and 2 for two different states, just project these two po
 
 *W: humidity ratio of air*
 
+*Attention: The point 1, 2 and 3 in the diagram and equations are only for schematics. They don't indicate the actual points at certain locations as we measured in the duct. 
+
 ![psychrometric chart](https://github.com/leisyracuse/MEE416/blob/master/psychart.PNG)
 
 ### 3. Refrigerant density
