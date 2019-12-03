@@ -103,4 +103,4 @@ After you plot point 1 and 2 for two different states, just project these two po
 ![psychrometric chart](https://github.com/leisyracuse/MEE416/blob/master/psychart.PNG)
 
 ### 3. Refrigerant density
-Please use the density for liquid phase refrigerant, instead of the gas phase one. 
+When calculating the refrigerant mass flow, please use the density for liquid phase, instead of the gas phase.
