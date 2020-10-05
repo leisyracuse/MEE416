@@ -53,10 +53,15 @@ It is the resolution of the computer clock. Less than 100ns.
 ## Lab2 Heat Transfer
 ### 1. Clarification and Correction
 1. Student manual Page11 Appendix1, Thermal conductivity of Fin surface is 205 W/(m*K)
-### 2. Dimensions of fins
+### 2. Location of T4, T5 and T6
+Distance from the sensor to back plate
+T4: 11 mm
+T5: 37 mm
+T6: 63 mm
+### 3. Dimensions of fins
 ![fin1](https://github.com/leisyracuse/MEE416/blob/master/Fins.PNG)
 ![fin2](https://github.com/leisyracuse/MEE416/blob/master/Fins2.PNG)
-### 3. Perimeter and Cross-section Area
+### 4. Perimeter and Cross-section Area
 * Perimeter and area in Page 11 Appendix 1
   * "Perimeter" is the perimeter of __section B-B__
   * "Cross area" is the __surface area__ of a single fin exposured to ambient air
